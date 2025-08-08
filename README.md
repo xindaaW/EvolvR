@@ -2,8 +2,6 @@
 The full source code will be made publicly available upon acceptance.
 
 
-# EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation
-
 ```
 EvolvR/
 ├── Baseline/           # Baseline methods
